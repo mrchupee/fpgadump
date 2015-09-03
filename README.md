@@ -1,2 +1,7 @@
-# fpgadump
-Some test stuff for fpga part of pi rack
+### fpgadump
+- - - 
+
+#### Description
+
+A place to mess with the ICEPick I bought.
+Not really meant for other people.
